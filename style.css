@@ -1,0 +1,30 @@
+.websitename {
+	color: black;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+
+.storystart {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 400px;
+	width: 800px;
+	height: 400px;
+}
+
+.story {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	width: 800px;
+	height: 400px;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-family: serif;
+}
